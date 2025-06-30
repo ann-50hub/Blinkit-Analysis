@@ -8,13 +8,25 @@ The Blinktit Data-Analysis project is a Power BI report developed to analyze bus
 This project includes data transformation, modeling, and DAX-based calculations to meet specific business requirements and track key performance indicators.
 
 
+
+Tools & Technologies Used
+1.Power BI Desktop
+
+2.Power Query
+
+3.DAX (Data Analysis Expressions)
+
+4.Microsoft Excel (CSV Source)
+
+5.GitHub (Version Control)
+
 Source Data
 
-Data Source: Excel file (BlinkIT.csv)
+1.Data Source: Excel file (BlinkIT.csv)
 
-Import Mode: Import into Power BI Desktop
+2.Import Mode: Import directly into Power BI Desktop
 
-Tables Included: 
+3.Tables Included: 
 
 *Item Fat Content
 
@@ -36,29 +48,7 @@ Tables Included:
 
 *Item Weight
 
-Steps In Project:
 
-1.Requirement Gathering/Business Requirements
-
-2.Data Walkthrough
-
-3.Data Connection
-
-4.Data Cleaning/Quality Check
-
-5.Data Modeling
-
-6.Data Processing
-
-7.DAX Calculations
-
-8.Dashboard Layouting
-
-9.Charts Development and Formatting
-
-10.Dashboard/Report Development
-
-11.Insight Generation
 
  Business Requirements
 
@@ -80,6 +70,36 @@ The report was developed to satisfy the following business needs:
 
 
 *Enable Interactive Analysis
+
+
+KPI Requirements
+
+jjjkk
+
+
+ Project Workflow:
+
+1.Requirement Gathering/Business:- Requirements Understanding stakeholder goals and data needs 
+
+2.Data Walkthrough:-Initial assessment of dataset fields and structure  
+
+3.Data Connection:-Connected Excel file using import mode 
+
+4.Data Cleaning/Quality Check:-Normalized categorical values (e.g., `LF`, `low fat` → `Low Fat`)
+
+5.Data Modeling
+
+6.Data Processing:-Performed in Power Query 
+
+7.DAX Calculations:-Custom measures created for dynamic KPIs  
+
+8.Dashboard Layouting:-Designed user-friendly layout with slicers  
+
+9.Charts Development and Formatting:-Built charts and graphs using best practices  
+
+10.Dashboard/Report Development
+
+11.Insight Generation:-Final report prepared for stakeholder presentation  
 
 
 
