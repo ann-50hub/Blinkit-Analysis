@@ -74,7 +74,13 @@ The report was developed to satisfy the following business needs:
 
 KPI Requirements
 
-jjjkk
+*Total Sales: The overall revenue generated from all items sold
+
+*Average Sales: The average revenue per sale
+
+*Number Of Items: The total count of different items sold
+
+*Average Rating: The average customer rating for items sold
 
 
  Project Workflow:
