@@ -108,6 +108,7 @@ Sample DAX  Measures
 
 Dashboard Review
 
+Bar/Column Charts: Show sales distribution by Item Type, Outlet Type, or Location Type.
 
 Business Insights
 
