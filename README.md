@@ -65,7 +65,23 @@ Steps In Project:
  
 The report was developed to satisfy the following business needs:
 
-*
+*Track Overall Sales Performance
+
+
+*Monitor Product Volume Sold
+
+
+*Assess Customer Satisfaction
+
+
+
+*Evaluate Sales Efficiency
+
+
+
+*Enable Interactive Analysis
+
+
 
 
 
