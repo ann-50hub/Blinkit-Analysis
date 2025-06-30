@@ -108,9 +108,14 @@ Sample DAX  Measures
 
 Dashboard Review
 
+KPI Cards: Shows the Total sales, Average Sales,Number of Itemsand Average Rating.
+
+Pie Charts: It depicts the Item Fat Content interms of Metrics(Total Sales,Average Sales,Number of Items and Average Rating) and Total Sales based on Outlet Size.
+
 Bar/Column Charts: Show sales distribution by Item Type, Outlet Type, or Location Type.
 
-Business Insightshhh
+
+Business Insights
 
 
 Future Enhancements
