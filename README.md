@@ -110,7 +110,7 @@ Dashboard Review
 
 Bar/Column Charts: Show sales distribution by Item Type, Outlet Type, or Location Type.
 
-Business Insights
+Business Insightshhh
 
 
 Future Enhancements
