@@ -103,6 +103,8 @@ KPI's Requirements
 
 Sample DAX  Measures
 
+ ```Avg Sales = AVERAGE('BlinkIT Grocery Data'[Sales])``` 
+
 
 Dashboard Review
 
