@@ -1,4 +1,5 @@
 # Blinkit Data-Analysis
+-----------------------
 Real Time Power Bi Project
 
 Project Overview
@@ -10,6 +11,7 @@ This project includes data transformation, modeling, and DAX-based calculations 
 
 
 Tools & Technologies Used
+
 1.Power BI Desktop
 
 2.Power Query
@@ -57,22 +59,14 @@ The report was developed to satisfy the following business needs:
 
 *Track Overall Sales Performance
 
-
 *Monitor Product Volume Sold
 
-
 *Assess Customer Satisfaction
-
-
 
 *Evaluate Sales Efficiency
 
 
-
-*Enable Interactive Analysis
-
-
-KPI Requirements
+KPI's Requirements
 
 *Total Sales: The overall revenue generated from all items sold
 
@@ -106,6 +100,23 @@ KPI Requirements
 10.Dashboard/Report Development
 
 11.Insight Generation:-Final report prepared for stakeholder presentation  
+
+Sample DAX  Measures
+
+
+Dashboard Review
+
+
+Business Insights
+
+
+Future Enhancements
+
+
+
+
+
+
 
 
 
