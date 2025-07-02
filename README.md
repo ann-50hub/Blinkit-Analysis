@@ -111,7 +111,8 @@ Avg Sales = AVERAGE('BlinkIT Grocery Data'[Sales])</pre>
 - ![Line Chart]https://github.com/ann-50hub/Blinkit-Analysis/blob/main/line%20charts.png?raw=true)
 - 
 
-## 🖼️Final  Dashboard preview:
+## 🖼️Final Dashboard preview:
+- ![Final Dashboard Preview]https://github.com/ann-50hub/Blinkit-Analysis/blob/main/Blinkit.pbix
 
 ## 📌 Business Insights
 
