@@ -118,7 +118,7 @@ Line Graph: Outlet Performance trends over establishment years
 
 Business Insights
 
-📈 Sales Insights
+Sales Insights
 
 *Total Sales reached $1.20M, indicating strong revenue performance.
 
@@ -128,7 +128,7 @@ Business Insights
 
 *Supermarket Type1 is the top contributor with $787.55K in sales.
 
-🛒 Product Insights
+ Product Insights
 
 *Fruits and Vegetables & Snack Foods are top sellers (~$180K each).
 
@@ -136,7 +136,7 @@ Business Insights
 
 *Regular fat content items dominate sales ($776.32K), while Low Fat items show strong performance as well ($425.36K).
 
-🏪 Outlet Insights
+ Outlet Insights
 
 *Medium-sized outlets generate the highest revenue ($507.90K).
 
