@@ -109,6 +109,9 @@ Avg Sales = AVERAGE('BlinkIT Grocery Data'[Sales])</pre>
 - 📈**Line Chart**: Outlet Performance trends over establishment years.
   
 - ![Line Chart]https://github.com/ann-50hub/Blinkit-Analysis/blob/main/line%20charts.png?raw=true)
+- 
+
+## 🖼️Final  Dashboard preview:
 
 ## 📌 Business Insights
 
