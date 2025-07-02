@@ -110,15 +110,42 @@ Dashboard Review
 
 KPI Cards: Shows the Total sales, Average Sales,Number of Items and Average Rating.
 
-Pie Charts: It depicts the Item Fat Content in terms of Metrics(Total Sales,Average Sales,Number of Items and Average Rating) and Total Sales based on Outlet Size.
+Interactive Filters for Outlet Size, Type, and Location
 
-Bar/Column Charts: Show sales distribution by Item Type, Outlet Type, or Location Type.
+Pie and Bar Charts: Sales Analysis by item category, fat content, and fat by outlet type
 
+Line Graph: Outlet Performance trends over establishment years
 
 Business Insights
 
+📈 Sales Insights
 
-Future Enhancements
+*Total Sales reached $1.20M, indicating strong revenue performance.
+
+*Average Sales per item is $141, suggesting healthy product-level profitability.
+
+*Tier 3 locations lead with $472.13K in sales.
+
+*Supermarket Type1 is the top contributor with $787.55K in sales.
+
+🛒 Product Insights
+
+*Fruits and Vegetables & Snack Foods are top sellers (~$180K each).
+
+*Low-performing categories include Seafood and Breakfast.
+
+*Regular fat content items dominate sales ($776.32K), while Low Fat items show strong performance as well ($425.36K).
+
+🏪 Outlet Insights
+
+*Medium-sized outlets generate the highest revenue ($507.90K).
+
+*Outlets established around 2018–2019 peaked at $205K sales.
+
+  
+
+
+
 
 
 
