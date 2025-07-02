@@ -106,7 +106,9 @@ Avg Sales = AVERAGE('BlinkIT Grocery Data'[Sales])</pre>
 
 - 🥧 **Pie Charts and Bar Charts**: Sales Analysis by item category, fat content, and fat by outlet type
 
-- 📈**Line Graph**: Outlet Performance trends over establishment years
+- 📈**Line Chart**: Outlet Performance trends over establishment years.
+  
+- ![Line Chart]https://github.com/ann-50hub/Blinkit-Analysis/blob/main/line%20charts.png?raw=true)
 
 ## 📌 Business Insights
 
