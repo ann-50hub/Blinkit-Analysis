@@ -98,21 +98,21 @@ Avg Sales = AVERAGE('BlinkIT Grocery Data'[Sales])</pre>
 
 - 📑**KPI Cards**: Shows the Total sales, Average Sales,Number of Items and Average Rating.
 
-- ![KPI Cards]https://github.com/ann-50hub/Blinkit-Analysis/blob/main/kpi-cards.png?raw=true)
+- ![KPI Cards](https://github.com/ann-50hub/Blinkit-Analysis/blob/main/kpi-cards.png?raw=true)
 
 - ⌛**Interactive Filters**  For Outlet Size, Type, and Location.
 
-- ![Interactive Filters]https://github.com/ann-50hub/Blinkit-Analysis/blob/main/interactive%20filters.png?raw=true)
+- ![Interactive Filters](https://github.com/ann-50hub/Blinkit-Analysis/blob/main/interactive%20filters.png?raw=true)
 
 - 🥧 **Pie Charts and Bar Charts**: Sales Analysis by item category, fat content, and fat by outlet type
 
 - 📈**Line Chart**: Outlet Performance trends over establishment years.
   
-- ![Line Chart]https://github.com/ann-50hub/Blinkit-Analysis/blob/main/line%20charts.png?raw=true)
+- ![Line Chart](https://github.com/ann-50hub/Blinkit-Analysis/blob/main/line%20charts.png?raw=true)
   
 
 ## 🖼️Final Dashboard preview:
-- ![Final Dashboard Preview]https://github.com/ann-50hub/Blinkit-Analysis/blob/main/final%20dashboard%20preview.png?raw=true)
+- ![Final Dashboard Preview](https://github.com/ann-50hub/Blinkit-Analysis/blob/main/final%20dashboard%20preview.png?raw=true)
 
 ## 📌 Business Insights
 
