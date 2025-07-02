@@ -100,7 +100,9 @@ Avg Sales = AVERAGE('BlinkIT Grocery Data'[Sales])</pre>
 
 - ![KPI Cards]https://github.com/ann-50hub/Blinkit-Analysis/blob/main/kpi-cards.png?raw=true)
 
-- ⌛**Interactive Filters**  For Outlet Size, Type, and Location
+- ⌛**Interactive Filters**  For Outlet Size, Type, and Location.
+
+- ![Interactive Filters]https://github.com/ann-50hub/Blinkit-Analysis/blob/main/interactive%20filters.png?raw=true)
 
 - 🥧 **Pie Charts and Bar Charts**: Sales Analysis by item category, fat content, and fat by outlet type
 
