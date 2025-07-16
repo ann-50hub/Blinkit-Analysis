@@ -16,7 +16,7 @@
 
 ## 📊 Project Overview
 
-The **Blinkit Data Analysis** project uses **Power BI** to visualize and analyze business data from an Excel source. It enables decision-makers to understand sales, product performance, and customer behavior through KPIs and interactive charts.
+The **Sales Data Analysis** project uses **Power BI** to visualize and analyze business data from an Excel source. It enables decision-makers to understand sales, product performance, and customer behavior through KPIs and interactive charts.
 
 ---
 
