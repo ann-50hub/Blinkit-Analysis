@@ -3,7 +3,7 @@
 
 
 
-# 🚀 Blinkit Data Analysis
+# 🚀 Sales Data Analysis
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
 ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
